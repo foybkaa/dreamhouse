@@ -1,0 +1,73 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+
+h2{
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+.loggo{
+    
+    color: rgb(29, 127, 238);
+    font-size: 40px;
+}
+.loggo1{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: black;
+    font-size: 40px;
+}
+.loggo2{
+    color: rgb(39, 83, 230);
+    font-size: 40px;
+}
+.sociaux a:hover{
+    text-decoration: none;
+}
+
+
+
+.menu a {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background-color: #ffd700;
+    color: black;
+}
+
+
+img{
+    height:300px;
+}
+
+.resaux i{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer{
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.623);
+}
+
+.resaux{
+    padding-top: 40px;
+}
+
+header img{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}

@@ -1,6 +1,7 @@
 body, html {
     padding: 0;
     margin: 0;
+    font-size: 18px;
 }
 
 
@@ -31,7 +32,7 @@ body, html {
     font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
 }
 
@@ -42,7 +43,7 @@ body, html {
 
 
 img{
-    height:300px;
+    height:290px;
 }
 
 .premier{
